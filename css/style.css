@@ -1,0 +1,36 @@
+h1{
+	color:red;
+}
+.mahin{
+	color:green;
+}
+.medium_font{
+	font-style:italic;
+	font size: 50px;
+	border width:5px solid red;
+}
+
+.mahin_big_font{
+	color:blue;
+}
+
+#black{
+	font size: 50px;
+	border width:5px solid red;
+}
+.green{
+	color:green;
+}
+.red{
+	color:red;
+}
+.class{
+	width: 100px;
+	color:blue;
+}
+.class{
+	width: 100px;
+	color:green;
+
+}
+
